@@ -1,2 +1,2 @@
-# Basic-Statistics-
+# Basic-Statistics
 Assignment
